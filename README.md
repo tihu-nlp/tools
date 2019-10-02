@@ -1,8 +1,8 @@
 # Tools
 
 This repository contains these tools:
-* [**Word Frequency**](./codec_convertor/)
-* [**Codec Convertor**](./word_frequency/)
+* [**Word Frequency**](./word_frequency/)
+* [**Codec Convertor**](./codec_convertor/)
 
 
 ## Supporting Tihu

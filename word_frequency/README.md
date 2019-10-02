@@ -6,7 +6,7 @@ This repository contains a simple python script to extract trigram, unigram and 
 ## Usage
 
 From command line run python script like below:
-```python
+```
 python3 word_frequency.py --directory <path/to/text/files>
 ```
 
