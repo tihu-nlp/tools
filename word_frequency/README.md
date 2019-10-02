@@ -19,7 +19,7 @@ Here is the lst of top 100 words in Persian Language:
 
 
 
- | Rank | bigram | unigram | trigram | | Rank | bigram | unigram | trigram |
+ | Rank | unigram | bigram | trigram | | Rank | unigram | bigram | trigram |
  | :--: | :----: | :-----: | :-----: | :-: | :--: | :----: | :-----: | :-----: |
  | 1    | و       | است که       | با توجه به            |  | 100  | داده     | که می        | کرده است که           |
  | 2    | در      | می شود       | می شود و              |  | 101  | بوده     | مربوط به     | کرد به گزارش          |
